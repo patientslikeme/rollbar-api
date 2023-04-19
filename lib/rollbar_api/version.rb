@@ -1,5 +1,5 @@
 # frozen_string_literal: true
 
 module RollbarApi
-  VERSION = '0.4.2.wald.1005'
+  VERSION = '1.0.0.wald.1005'
 end
