@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rollbar-api (1.0.0.wald.1005)
+    rollbar-api (1.0.0.plm)
       activesupport (>= 4)
       faraday (~> 1.0)
       recursive-open-struct
