@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require 'logger'
+
 module RollbarApi
   @logger = Logger.new($stdout)
   def self.logger=(logger)
